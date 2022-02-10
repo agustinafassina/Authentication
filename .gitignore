@@ -1,0 +1,9 @@
+.vs
+bin
+obj
+/.idea/config
+
+.vscode
+.vscode/
+/Authentication.Lib/bin
+/Authentication.Lib/obj
